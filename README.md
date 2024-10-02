@@ -7,9 +7,9 @@ TASK-1 K-Means Clustering
 - Objective: To group data into clusters based on similarities without prior knowledge of the groups.
 - Tech Stack: Python, Scikit-learn, Matplotlib,Seaborn
 - Key Features:
---   Implemented the K-Means algorithm from scratch.
---   Visualized clusters using Matplotlib.
---   Evaluated performance using different clustering metrics like inertia and silhouette score.
+-   Implemented the K-Means algorithm from scratch.
+-   Visualized clusters using Matplotlib.
+-   Valuated performance using different clustering metrics like inertia and silhouette score.
 
 TASK-3 Networking Binary Classification
 
