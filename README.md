@@ -18,7 +18,7 @@ TASK-3 Networking Binary Classification
 - Key Features:
 - Preprocessed the data to handle missing values and categorical features.
 - Applied classification algorithms such as Logistic Regression, Decision Trees, and Random Forests.
-- Evaluated models using accuracy, precision, recall.
+- Evaluated models using accuracy, precision, recall, F1 score
 
 TASK-2 Comparison of Pre-trained Model vs Model from Scratch
 
